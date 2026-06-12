@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Anutex Parikrama</string>
+    <string name="title_activity_main">Anutex Parikrama</string>
+    <string name="package_name">com.anutex.parikrama</string>
+    <string name="custom_url_scheme">com.anutex.parikrama</string>
+</resources>

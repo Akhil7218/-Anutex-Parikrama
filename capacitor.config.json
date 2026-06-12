@@ -1,0 +1,13 @@
+{
+  "appId": "com.anutex.parikrama",
+  "appName": "Anutex Parikrama",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "launchAutoHide": true,
+      "backgroundColor": "#0D47A1"
+    }
+  }
+}
